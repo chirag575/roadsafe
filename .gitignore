@@ -1,0 +1,35 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+
+# IDE
+.idea/
+.vscode/
+
+# Firebase / local configuration
+google-services.json
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Dataset files
+pothole/
+blindspot/
+
+# Logs
+*.log
+
+# Generated files
+*.iml
